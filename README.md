@@ -53,9 +53,8 @@ I focus on turning ideas into shipped products: from concept and architecture to
 - Building a robust, modular **Jarvis** ecosystem with plugins and skills.  
 ---  
 ## 📬 Contact  
-- GitHub: [@ton-pseudo](https://github.com/ton-pseudo)  
-- Email: ton.email@exemple.com  
-- LinkedIn / site perso: [à ajouter]  
+- GitHub: [@Tri-Edge](https://github.com/Tri-Edge)   
+- LinkedIn : [Charly Romo](https://www.linkedin.com/in/charly-romo-abbab2440/?isSelfProfile=true)]  
 Feel free to explore my repos and reach out if you want to collaborate on SaaS or AI projects.
 
 🔭 &nbsp;I'm currently working on **Building SaaS products, cross-platform applications, and a modular AI assistant inspired by Jarvis**  
